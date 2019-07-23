@@ -11,7 +11,7 @@
 ```
 What is this?
 -------------
-DB Clonner is a very simple script for clonning and downloading mysql databases.
+DB Clonner is a really simple script for clonning and downloading mysql databases.
 
 Dependencies:
 -------------
