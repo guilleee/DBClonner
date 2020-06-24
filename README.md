@@ -20,4 +20,4 @@ Dependencies:
 
 Comments, bugs, or requests?
 ----------------------------
-* [![Twitter Follow](https://img.shields.io/twitter/follow/iamguilleee.svg?style=social&label=Follow)](https://twitter.com/iamguilleee) guilleee @iamguilleee
+* ![Twitter Follow](https://img.shields.io/twitter/follow/gllmdev?style=social)
